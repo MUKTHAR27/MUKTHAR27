@@ -84,7 +84,7 @@ focused on **network security, firewalls, VPN and endpoint protection** across W
 
 **Also fluent in**
 
-![Python](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -97,12 +97,14 @@ focused on **network security, firewalls, VPN and endpoint protection** across W
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MUKTHAR27&show_icons=true&hide_border=true&bg_color=0b1220&title_color=2dd4bf&text_color=e8eef7&icon_color=38bdf8&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKTHAR27&layout=compact&hide_border=true&bg_color=0b1220&title_color=2dd4bf&text_color=e8eef7&langs_count=8" alt="Top languages" />
+<img height="165" src="https://gh-readme-stats.vercel.app/api?username=MUKTHAR27&show_icons=true&hide_border=true&bg_color=0b1220&title_color=2dd4bf&text_color=e8eef7&icon_color=38bdf8&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=MUKTHAR27&layout=compact&hide_border=true&bg_color=0b1220&title_color=2dd4bf&text_color=e8eef7&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=MUKTHAR27&hide_border=true&background=0b1220&stroke=1f2937&ring=2dd4bf&fire=38bdf8&currStreakLabel=2dd4bf&sideLabels=e8eef7&dates=8b949e&currStreakNum=e8eef7&sideNums=e8eef7" alt="Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MUKTHAR27&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<br />
+
+<img width="100%" src="https://ghchart.rshah.org/2dd4bf/MUKTHAR27" alt="MUKTHAR27's contribution chart" />
 
 </div>
 
